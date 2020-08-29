@@ -1,4 +1,4 @@
-### Hi there, i'm Edgard!
+# Hi, i'm Edgard!
 
 [![Pinterest Badge](https://img.shields.io/badge/-LinkedIn-e60023?style=flat-square&logo=Pinterest&logoColor=white&link=https://br.pinterest.com/edhufelande/)](https://br.pinterest.com/edhufelande/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgardh/)](https://www.linkedin.com/in/edgardh/)
