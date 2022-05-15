@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/edhufelande)](https://www.facebook.com/edhufelande)
 [![Steam Badge](https://img.shields.io/badge/-Steam-171a21?style=flat-square&labelColor=171a21&logo=steam&logoColor=white&link=https://steamcommunity.com/id/irmao-do-jorel/)](https://steamcommunity.com/id/irmao-do-jorel/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgardhsl&theme=codeSTACKr&show_icons=tru)](https://github.com/edgardhsl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgardhsl&theme=codeSTACKr&show_icons=tru&exclude_repo=pangya-account-migrator)](https://github.com/edgardhsl/github-readme-stats)
 
 
 
